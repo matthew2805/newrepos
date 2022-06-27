@@ -4,3 +4,4 @@ aboba
  asdadadadas hihihi
 aboba
 I want to commit this :) and i have done this :00
+git reset suiiii
